@@ -4,4 +4,4 @@ Need help comtact dkmnsr20@gmail.com
 
 
 
-Delhi University B.Sc(H) Computer Python Practicals Sem 1
+Delhi University B.Sc(H) Computer science Python Practicals Sem 1
